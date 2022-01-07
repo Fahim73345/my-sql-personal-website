@@ -44,7 +44,6 @@ p.rongpwd {
 .loginwlc h1{
 	 display:inline-block;
 	 width:622px;
-
 	
 }
 .loginwlc {
@@ -64,7 +63,7 @@ element.style {
 .loginwlc h1 {
     display: inline-block;
    
-    font-size: 100px;
+    font-size: 40px;
     text-transform: capitalize;
     text-align:center;
 	color:#E14E17;
