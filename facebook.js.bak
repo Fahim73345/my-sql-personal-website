@@ -27,7 +27,7 @@ document.querySelector(".signinbtn").addEventListener("click",function(){
 		document.querySelector(".mainpage").setAttribute("style","display:block;")
 		
 	}
-	else{document.querySelector(".loginpage p").innerHTML="RONG PASSWORD";
+	else{document.querySelector(".loginpage p").innerHTML="hi saon";
 	}
 	
 	
