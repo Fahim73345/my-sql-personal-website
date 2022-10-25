@@ -48,7 +48,7 @@ document.querySelector(".signinbtn").addEventListener("click",function(){
 		document.querySelector(".mainpage").setAttribute("style","display:block;")
 		
 	}
-	else{document.querySelector(".loginpage p").innerHTML="RONG PASSWORD";
+	else{document.querySelector(".loginpage p").innerHTML="তর পাসওয়আর্ড মোড়াইয়া জায়গা মত ভইরা দে";
 	}
 	
 	
